@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\VSProjects\SoundSynthesier\SoundSynthesier\main.cpp(121,25): warning C4244: 'initializing': conversion from 'std::streamoff' to 'size_t', possible loss of data
+D:\VSProjects\SoundSynthesier\SoundSynthesier\main.cpp(133,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\VSProjects\SoundSynthesier\SoundSynthesier\main.cpp(161,22): warning C4244: 'initializing': conversion from 'std::streamoff' to 'size_t', possible loss of data
+  SoundSynthesier.vcxproj -> D:\VSProjects\SoundSynthesier\Debug\SoundSynthesier.exe
